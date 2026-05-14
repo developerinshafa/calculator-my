@@ -24,13 +24,16 @@ This calculator supports basic arithmetic operations with keyboard support and a
 ⌫ Backspace Function
 
 
-** Technologies Used**
+
+
+**Technologies Used**
 
 HTML5
 
 CSS3
 
 JavaScript (ES6)
+
 
 
 **Author**
